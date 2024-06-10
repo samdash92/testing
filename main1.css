@@ -1,0 +1,68 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body {
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 25px;
+}
+
+
+.container {
+    background-color: white;
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+    height: 500px;
+    box-shadow: 10px 10px black;
+    margin-top: 90px;
+}
+
+.tex {
+    background-color: yellow;
+    padding: 10px 15px; 
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.yel {
+    color: rgb(238, 238, 9);
+    margin: 20px 0;
+}
+
+.set {
+    margin-top: 20px;
+}
+
+.img {
+    display: flex;
+    margin-top: 20px;
+}
+
+.las {
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+
+.im1 {
+    border-radius: 20px;
+}
+
+
+.im2 {
+    border-radius: 50%;
+}
